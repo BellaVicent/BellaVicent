@@ -5,7 +5,7 @@
   <a href="https://github.com/BellaVicent">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaVicent&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaVicent&layout=compact&langs_count=7&theme=dracula"/>![download20220801162725](https://user-images.githubusercontent.com/108436057/183510462-98f4dab8-9bbc-402c-8b30-d373ff197309.png)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaVicent&layout=compact&langs_count=7&theme=dracula"/>!
 
 </div>
 
