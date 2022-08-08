@@ -29,7 +29,7 @@
 
 <div>
 
-  ![Snake animation](https://github.com/BellaVicent/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BellaVicent/BellaVicent/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
