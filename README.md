@@ -30,6 +30,6 @@
 <div>
 
   ![Snake animation](https://github.com/BellaVicent/BellaVicent/blob/output/github-contribution-grid-snake.svg)
-  
+  a
 </div>
 
